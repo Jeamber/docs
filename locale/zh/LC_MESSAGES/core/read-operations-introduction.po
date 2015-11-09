@@ -31,8 +31,8 @@ msgid ""
 "database. In MongoDB, queries select :term:`documents <document>` from a "
 "single :term:`collection`."
 msgstr ""
-"读操作，或者说 :term:`queries <query>` ，从数据库中检索存储的数据。在 "
-"MongoDB 里，查询从一个独立的集合中选择 :term:`documents <document>` 。"
+"读操作，或者说 :term:`查询 <query>` ，指检索存储在数据库中的数据。在 "
+"MongoDB 里，查询会从一个独立的集合中选择 :term:`文档 <document>` 。"
 
 # 5744ebed870749ffb00d0154502f231e
 #: ../source/core/read-operations-introduction.txt:15
