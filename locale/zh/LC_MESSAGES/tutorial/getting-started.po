@@ -318,7 +318,7 @@ msgid ""
 "``next()`` method returns the next document. The ``printjson()`` method "
 "renders the document in a JSON-like format."
 msgstr ""
-"``hasNext()`` 方法会返回 true 如果游标还有更多地文档可用。   ``next()`` 方法"
+"如果游标还有更多地文档可用，``hasNext()`` 方法将会返回 true 。   ``next()`` 方法"
 "则返回下一个文档。``printjson()`` 方法以JSON形式打印出文档的内容。"
 
 #: ../source/tutorial/getting-started.txt:234
